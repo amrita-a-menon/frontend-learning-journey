@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>HTML Audio and Video Lab</title>
+</head>
+<body>
+  <h1>Rickshaw Ramblings</h1>
+  <section>
+    <h2>Incredible India</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1K4fL_P5rQI?si=ztZxZ8bcXLcBcX_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </section>
+  <section>
+    <h2>Tunes of India</h2>
+    <audio controls loop src="https://cdn.pixabay.com/audio/2025/11/20/audio_4ab6954810.mp3"></audio>
+
+</body>
+</html>
