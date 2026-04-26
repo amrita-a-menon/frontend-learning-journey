@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>The Nritya Box</h1>
+        <p>Step inside a curated treasury where every movement tells a story of ancient souls. Welcome to The Nritya Box, your window into Nritya—the divine Indian art of expressive dance that weaves emotion and rhythm into visual poetry.</p>
+        <section>
+            <h2>Bharathanatyam: The Geometric Grace</h2>
+            <p>Originating from the sacred temples of Tamil Nadu, Bharatanatyam is a celestial blend of fire and geometry. It is defined by the Araimandi (half-squat) posture, where the dancer’s body creates sharp, architectural lines and intricate rhythmic patterns. This art form is a "Visual Yoga" that balances Nritta (pure, technical movement) with Abhinaya (expressive storytelling), turning every flick of the wrist and glance of the eye into a profound spiritual conversation.</p>
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/JWhA3ldZcyY?si=5jTJDcLCejMRyhiD" 
+            title="Bharathanatyam Dance: Shiva Shambho" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen>
+            </iframe>
+        </section>
+        <section>
+            <h2>Kathak:The Art of the Storyteller</h2>
+            <p>Born from the nomadic bards of North India, Kathak is the mesmerizing art of the "Katha" or story. It is a dance of breathtaking transitions—moving from subtle, delicate eyebrow movements to thunderous, lightning-fast footwork and dizzying pirouettes known as Chakkars. Historically evolving from temple courtyards to the grand Mughal palaces, it remains a vibrant dialogue between the dancer and the percussionist, where rhythm itself becomes a narrative.</p>
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/UBYqv21c0Yk?si=zjYgla_yBY05olMr" 
+            title="Kathak Dance Video" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen></iframe>
+        </section>
+        <section>
+            <h2>Kathakali: The Theater of Gods and Demons</h2>
+            <p>Hailing from the lush landscapes of Kerala, Kathakali is a majestic "Story-Play" that blurs the line between dance and drama. It is instantly recognized by its otherworldly, elaborate costumes and heavy "Pacha" (green) or "Kathi" (knife) makeup that transforms humans into deities and demons. Without uttering a single word, the performer uses a sophisticated language of 24 hand gestures and incredible eye-muscle control to enact epic battles from the Ramayana and Mahabharata.</p>
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/GBbcYtkqVKQ?si=IK3G2vI84-zvn32H" 
+            title="Kathakali Dance" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen></iframe>
+        </section>
+    </main>
+
+</body>
+</html>
